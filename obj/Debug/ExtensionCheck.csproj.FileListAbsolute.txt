@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\ExtensionCheck\ExtensionCheck\bin\Debug\ExtensionCheck.exe
+C:\Users\Admin\Desktop\ExtensionCheck\ExtensionCheck\bin\Debug\ExtensionCheck.pdb
+C:\Users\Admin\Desktop\ExtensionCheck\ExtensionCheck\obj\Debug\ExtensionCheck.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ExtensionCheck\ExtensionCheck\obj\Debug\ExtensionCheck.Properties.Resources.resources
+C:\Users\Admin\Desktop\ExtensionCheck\ExtensionCheck\obj\Debug\ExtensionCheck.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ExtensionCheck\ExtensionCheck\obj\Debug\ExtensionCheck.exe
+C:\Users\Admin\Desktop\ExtensionCheck\ExtensionCheck\obj\Debug\ExtensionCheck.pdb
+C:\Users\Admin\Desktop\ExtensionCheck\ExtensionCheck\obj\Debug\MyClient.Form1.resources
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\ExtensionCheck.exe
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\ExtensionCheck.pdb
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\bin\Debug\ExtensionCheck.exe
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\bin\Debug\ExtensionCheck.pdb
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\ExtensionCheck.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\MyClient.Form1.resources
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\ExtensionCheck.Properties.Resources.resources
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\ExtensionCheck.csproj.GenerateResource.Cache

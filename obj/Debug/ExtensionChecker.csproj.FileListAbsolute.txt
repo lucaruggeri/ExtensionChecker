@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\ExtensionCheck.exe
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\ExtensionCheck.pdb
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\bin\Debug\ExtensionCheck.exe
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\bin\Debug\ExtensionCheck.pdb
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\MyClient.Form1.resources
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\ExtensionCheck.Properties.Resources.resources
+C:\Users\Admin\Desktop\ExtensionChecker\ExtensionChecker\obj\Debug\ExtensionChecker.csproj.GenerateResource.Cache
